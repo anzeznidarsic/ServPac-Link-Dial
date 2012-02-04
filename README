@@ -1,4 +1,4 @@
-# About
+<h1>About</h1>
 
 This script is used to make phone numbers on websites 'dialable'. When phone number is clicked user is redirected to ServPac login screen to initiate the session with their VoIP phone and after that phone automatically dials the number that was clicked. Login is required just the first time, after that ServPac remembers the user and whenever phone number is clicked phone automatically dials this number.
 
@@ -6,7 +6,7 @@ This script was developed for intranet system by Pacific Integrity LLC where ins
 
 Script can be used by anyone who uses ServPac phone system.
 
-# Examples
+<h1>Examples</h2>
 
 To change all phone numbers into clickable ones in elements marked with class "phoneNumber":
 
