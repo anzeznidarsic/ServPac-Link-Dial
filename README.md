@@ -18,6 +18,9 @@ you need to add this line of JavaScript code:
 ```javascript
     $('.phoneNumber').servPacLinkDial();
 ```
+
+Script works with all jQuery selectors (e.g., if you would want to have phone number only on *div* with *id="number"* you would use *$('#number').servPacLinkDial();*).
+
 # License
 
 This script can be used by anyone who find it useful without any restrictions.
