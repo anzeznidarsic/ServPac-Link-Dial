@@ -14,6 +14,7 @@ To change all phone numbers into clickable ones in elements marked with class "p
     <div class="phoneNumber">(808) 123-4567</div>
 ```
 you need to add this line of JavaScript code:
+
 ```javascript
     $('.phoneNumber').servPacLinkDial();
 ```
